@@ -2,6 +2,7 @@
 #include<conio.h> int fr[3]; 
 void main() 
 { 
+
 void display(); 
 int i,j,page[12]={2,3,2,1,5,2,4,5,3,2,5,2}; 
 int 
